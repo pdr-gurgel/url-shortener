@@ -1,0 +1,29 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "An project to make a url-shortener, using good praticces of code.",
+  "keywords": [
+    "url-shortener",
+    "nodejs",
+    "javascript",
+    "backend"
+  ],
+  "homepage": "https://github.com/pdr-gurgel/url-shortener#readme",
+  "bugs": {
+    "url": "https://github.com/pdr-gurgel/url-shortener/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdr-gurgel/url-shortener.git"
+  },
+  "license": "ISC",
+  "author": "Pedro Gurgel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "fastify": "^5.6.1"
+  }
+}
